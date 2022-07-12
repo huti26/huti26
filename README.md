@@ -8,4 +8,4 @@ My main interest is Data Engineering. For that I work with a variety fields:
 - Statistics, which are required for general data visualizations. R (ggplot) is my prefered visualization framework.
 - Additionally, I use some ML frameworks (Mainly NLP related), where it is appropriate.
 
-If you are curious about any of my repositories, there is a fair chance you can find some kind of write up about it on my [blog](https://github.com/huti26).
+If you are curious about any of my repositories, there is a fair chance you can find some kind of write up about it on my [blog](https://huti26.github.io/).
