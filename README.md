@@ -5,7 +5,8 @@ My main interest is Data Engineering. For that I work with a variety fields:
 - Distributed Systems such as Apache Kafka or Spark.
 - NoSQL Databases such as RocksDB.
 - SQL Databases such as MySQL. For smaller projects I like working with SQLite.
-- Statistics, which are required for general data visualizations. R (ggplot) is my prefered visualization framework, but I also like working with Seaborn in Python.
+- Statistics, which are required for general data visualizations. 
+- R (ggplot) is my prefered visualization framework, but I also like working with Seaborn in Python.
 - Additionally, I use some ML frameworks (Mainly NLP related), where it is appropriate.
 
 If you are curious about any of my repositories, there is a fair chance you can find some kind of write up about it on my [blog](https://huti26.github.io/).
