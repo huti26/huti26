@@ -2,9 +2,9 @@
 
 My main interest is Data Engineering. For that I work in a variety of fields:
 
-- Data Pipelines with Apache Beam (A unified framework by Apache, which allows users to run both Streamprocessing with Flink and Batchprocessing with Spark with the same code base)
 - NoSQL Databases such as RocksDB.
 - SQL Databases such as MySQL. For smaller projects, I like working with SQLite.
+- Data Pipelines with Apache Beam (A unified framework by Apache, which allows users to run both Streamprocessing with Flink and Batchprocessing with Spark with the same code base)
 - Statistics, which are required for general data visualizations. 
 - R (ggplot) is my preferred visualization framework, but I also have experience working with Matplotlib/Seaborn and Plotly in Python.
 - Additionally, I use some ML frameworks (Mainly NLP related), where it is appropriate.
